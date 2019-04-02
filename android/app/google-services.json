@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "489811551820",
+    "firebase_url": "https://home-interior-design.firebaseio.com",
+    "project_id": "home-interior-design",
+    "storage_bucket": "home-interior-design.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489811551820:android:42d1ce26d6974947",
+        "android_client_info": {
+          "package_name": "com.example.home_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489811551820-i9v54ua80tsos0jfcj2eq3a476pfmkv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home_design",
+            "certificate_hash": "d05e08f7514b730df8179eb891759d45a54a5073"
+          }
+        },
+        {
+          "client_id": "489811551820-tels0nkpetsv7q9e462hjtu8fke1jsk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB263ZSAHCw1Q3CoFUpxZBHYOxD-hM6eRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489811551820-tels0nkpetsv7q9e462hjtu8fke1jsk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
